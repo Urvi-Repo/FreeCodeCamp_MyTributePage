@@ -1,7 +1,7 @@
 # ReponsiveWebPage
 My Tribute Page
 
-<strong>FreeCodeCamp First Project</strong>
+<strong>FreeCodeCamp First_Project</strong>
 
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
